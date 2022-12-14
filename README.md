@@ -3,9 +3,11 @@ The application allows resetting, recovering and configuring multiple routers an
 HyperTerminal & PuTty Automation
 
 Project
+
 The project is a Windows Application that allows the user to reset and configure routers and switches automatically. It also allows the user to recover passwords of routers and switches, when the password is unknown. The code is written in C# and can be run on Visual Studio. The program resets and recovers passwords with a simple click, skipping the process of running commands. The purpose of this project is to ease-up and speed-up the process of setting-up Networking labs for upcoming classes.
 
 Features
+
 •	The user can erase and reload the routers and switches with a single click, instead of manually typing-in the commands.
 •	The application connects to the right port and runs the specified commands.
 •	Users can directly run HyperTerminal and PuTTy from the application.
